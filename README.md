@@ -33,7 +33,7 @@ In case the user finds it difficult to download any of the above, there will be 
 
 `git clone https://github.com/Kenbrown3/MDAproject`
 
-- Go into the `notebook/` directory
+- Go into the `notebook/Final_version_LDA_2021` directory
 
 - Install `virtualenv` using
 
