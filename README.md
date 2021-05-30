@@ -46,9 +46,7 @@ virtualenv venv
 source venv/bin/activate
 ```
 
-- Download requirements with -
-
-`pip install -r REQUIREMENTS.txt`
+- Download requirements with  `pip install -r REQUIREMENTS.txt`
 
 Alternatively, if you are using anaconda as your virtual environment, running `conda install gensim` and `conda install spacy` should also do the trick.
 
