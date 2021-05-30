@@ -31,9 +31,9 @@ In case the user finds it difficult to download any of the above, there will be 
 
 - Start by cloning the repo using
 
-`git clone https://github.com/heyang9511/MDAproject`
+`git clone https://github.com/Kenbrown3/MDAproject`
 
-- Go into the `notebooks/` directory
+- Go into the `notebook/` directory
 
 - Install `virtualenv` using
 
