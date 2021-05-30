@@ -20,6 +20,8 @@ Original data link: [link](https://dataverse.harvard.edu/dataset.xhtml?persisten
 - numpy
 - pandas
 - seaborn
+- smart_open
+- nltk
 ```
 
 In case the user finds it difficult to download any of the above, there will be a Jupyter Notebook with all the cells already run, so you can just follow the same.
@@ -29,7 +31,7 @@ In case the user finds it difficult to download any of the above, there will be 
 
 - Start by cloning the repo using
 
-`git clone https://github.com/heyang9511/LDA_topic_modeling`
+`git clone https://github.com/heyang9511/MDAproject`
 
 - Go into the `notebooks/` directory
 
@@ -91,4 +93,5 @@ os.environ.update({'MALLET_HOME':r'/User/Desktop/new_mallet/mallet-2.0.8/'})
 mallet_path = '/Users/Desktop/new_mallet/mallet-2.0.8/bin/mallet
 
 ```
+
 
