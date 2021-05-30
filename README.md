@@ -74,7 +74,7 @@ spacy.load('en_core_web_sm')
 - You can download Mallet via [link](http://mallet.cs.umass.edu/)
 - To successfully run the Mallet script, follow the following code to run it in notebook
 
-**Windows**
+**Windows System**
 ```python
 import os
 os.environ.update({'MALLET_HOME':r'C:/Users/Desktop/mallet-2.0.8/'})
@@ -82,7 +82,7 @@ os.environ.update({'MALLET_HOME':r'C:/Users/Desktop/mallet-2.0.8/'})
 mallet_path = 'C:\Users\Desktop\mallet-2.0.8\bin\mallet' # update this path
 
 ```
-**Mac**
+**Mac System**
 ```python
 import os
 os.environ.update({'MALLET_HOME':r'/User/Desktop/new_mallet/mallet-2.0.8/'})
