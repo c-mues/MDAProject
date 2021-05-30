@@ -50,11 +50,9 @@ source venv/bin/activate
 
 `pip install -r REQUIREMENTS.txt`
 
-And you should be good to go!
-
 Alternatively, if you are using anaconda as your virtual environment, running `conda install gensim` and `conda install spacy` should also do the trick.
 
-### Text Analysis Tutorial
+### LDA Topic Modeling
 
 For the text analysis tutorial, you will be following the same instructions as above, but will need to run
 
