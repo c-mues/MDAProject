@@ -62,7 +62,7 @@ Alternatively, you can look up which of the libraries you would still need to do
 
 ### Downloading spaCy language model
 
-Both of the tutorials will be using the spaCy English language model, so we will be needing to download it first.
+We will be using the spaCy English language model, so we will be needing to download it first.
 This [link](https://spacy.io/usage/models) contains instructions to download this model. You can also run the following code in notebook:
 
 ```python
