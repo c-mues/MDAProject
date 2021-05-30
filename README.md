@@ -54,7 +54,7 @@ Alternatively, if you are using anaconda as your virtual environment, running `c
 
 ### LDA Topic Modeling
 
-For the text analysis tutorial, you will be following the same instructions as above, but will need to run
+For the LDA Topic Modeling Project, you will be following the same instructions as above, but will need to run
 
 `pip install -r REQUIREMENTS.txt`
 
