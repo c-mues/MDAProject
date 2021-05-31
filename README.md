@@ -72,7 +72,7 @@ spacy.load('en_core_web_sm')
 - To load LDA Mallet, it's advised to use gensim 3.8 to apply `gensim.wrapper( )`. 
 - The Java JDK needs to be downloaded before running the Mallet script. Mallet script is Java based and you need to check whether Java has been installed in you computer. If you are mac user, trying to run `java -version` in your terminal. You can follow this [link](https://www.gitmemory.com/issue/RaRe-Technologies/gensim/2851/756970247) for more details
 - You can download Mallet via [link](http://mallet.cs.umass.edu/)
-- To successfully run the Mallet script, follow the following code to run it in notebook
+- To successfully run the Mallet script, please refer to the following code to run it in notebook
 
 **Windows System**
 ```python
