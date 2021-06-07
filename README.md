@@ -1,5 +1,8 @@
 # MDAproject
 
+Final project for KU Leuven course Modern Data Analytics (B-KUL-G0Z39A). 
+An online Dash-App summarzing some of these results can be found at: https://mda-newzealand.herokuapp.com/
+
 Group: New-Zealand
 
 Topic: Politicians and Climate Change
