@@ -1,0 +1,1 @@
+To assign topics to all of the speeches we used Latent Dirichlet Allocation. This resulted in 8 Topics. Word clouds show the words most related to each topic. 
